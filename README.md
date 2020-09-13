@@ -1,6 +1,6 @@
 # Portfolio
 
-## Aobut me
+## About me
 
 ## Tools
 
