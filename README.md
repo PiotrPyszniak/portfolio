@@ -12,7 +12,7 @@ On this site I would like to share my all gained experience from personal studie
 * Trello
 * MS SQL
 * Windows
-* 
+* GitHub (in progress)
 
 ## Tech skills
 
@@ -23,7 +23,7 @@ On this site I would like to share my all gained experience from personal studie
 
 ## Certificates
 
-* [ISTQB](http://scr.istqb.org/) - 
+* [ISTQB](http://scr.istqb.org/) 
 
 ## Courses
 
@@ -43,6 +43,12 @@ On this site I would like to share my all gained experience from personal studie
 
 ## My test case examples
 
+(in progress)
+
 ## My bug reports
 
+(in progress)
+
 ## My Projects
+
+(in progress)
