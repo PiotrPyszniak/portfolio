@@ -28,6 +28,7 @@ On this site I would like to share my all gained experience from personal studie
 ## Courses
 
 * [Zostań Testerem](https://sii.pl/szkolenia/zostan-testerem/) - Sii Sp. z o.o.
+* [Wstęp do testowania oprogramowania. Praktyczny kurs od podstaw.](https://www.udemy.com/course/wstep-do-testowania-oprogramowania/)
 
 ## Books
 
