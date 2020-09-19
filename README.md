@@ -49,7 +49,7 @@ On this site I would like to share my all gained experience from personal studie
 
 ## My bug reports
 
-(in progress)
+* [Bugs reported for site transinfo.pl](https://drive.google.com/file/d/1SbI8Eh0P6-BEElPsIB_jH1-MtWHvxydJ/view?usp=sharing)
 
 ## My Projects
 
