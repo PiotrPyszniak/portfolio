@@ -44,7 +44,8 @@ On this site I would like to share my all gained experience from personal studie
 
 ## My test case examples
 
-* [Test cases for site ztm.lublin.eu](https://drive.google.com/file/d/1HzGtWqkSpbmueCPs8Rj13xYuwoL0lgkO/view?usp=sharing)
+* [Test cases for site transinfo.pl](https://drive.google.com/file/d/15RcbiwH3jjuI1Nh5CeXsltNmbPVvVslQ/view?usp=sharing)
+* [Test cases for site ztm.lublin.eu](https://drive.google.com/file/d/1bgnCp_XACZQ6gf87BHQxWGf9Rbser4vV/view?usp=sharing)
 
 ## My bug reports
 
