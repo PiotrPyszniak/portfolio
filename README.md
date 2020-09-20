@@ -50,7 +50,7 @@ On this site I would like to share my all gained experience from personal studie
 ## My bug reports
 
 * [Bugs reported for site transinfo.pl](https://drive.google.com/file/d/1SbI8Eh0P6-BEElPsIB_jH1-MtWHvxydJ/view?usp=sharing)
-* [Bugs reported for site euro.com.pl](https://drive.google.com/file/d/18gRNrQ8rJYk-RtzVuhbG-PzbIJPh8s4D/view?usp=sharing)
+* [Bugs reported for site euro.com.pl](https://drive.google.com/file/d/17IPULrTQV8lwvQ0PEl76qWOdkTw-scWL/view?usp=sharing)
 
 ## My Projects
 
