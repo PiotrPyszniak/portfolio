@@ -23,7 +23,7 @@ On this site I would like to share my all gained experience from personal studie
 
 ## Certificates
 
-* [ISTQB](http://scr.istqb.org/) 
+* [ISTQB](https://drive.google.com/file/d/1d_DvwHu0HTr1cnRanlqHRKmXCGZeK608/view?usp=sharing) - No. 15098/FLCT/2020
 
 ## Courses
 
