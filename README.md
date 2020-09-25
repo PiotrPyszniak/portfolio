@@ -14,6 +14,7 @@ On this site I would like to share my all gained experience from personal studie
 * Windows
 * Postman
 * GitHub (in progress)
+* MySQL (in progress)
 
 ## Tech skills
 
@@ -61,4 +62,4 @@ On this site I would like to share my all gained experience from personal studie
 
 ## My Projects
 
-(in progress)
+* [Plan rozwoju osobistego](https://trello.com/b/mf4JNNtw) - Trello
