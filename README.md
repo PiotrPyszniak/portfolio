@@ -13,8 +13,8 @@ On this site I would like to share my all gained experience from personal studie
 * MS SQL
 * Windows
 * Postman
+* MySQL
 * GitHub (in progress)
-* MySQL (in progress)
 
 ## Tech skills
 
@@ -34,6 +34,7 @@ On this site I would like to share my all gained experience from personal studie
 * [Wstęp do testowania oprogramowania. Praktyczny kurs od podstaw.](https://www.udemy.com/course/wstep-do-testowania-oprogramowania/) - Udemy
 * [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/) - Udemy
 * [SQL - język zapytań do bazy danych SQL Server](https://www.udemy.com/course/kurs-sql/) - Udemy
+* [MySQL tworzenie i zarządzanie bazami danych](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/) - Udemy
 
 ## Books
 
