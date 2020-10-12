@@ -14,7 +14,7 @@ On this site I would like to share my all gained experience from personal studie
 * Windows
 * Postman
 * MySQL
-* GitHub (in progress)
+* Git / GitHub
 * Jira (in progress)
 
 ## Tech skills
