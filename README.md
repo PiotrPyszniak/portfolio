@@ -52,6 +52,7 @@ On this site I would like to share my all gained experience from personal studie
 ## Webinars
 
 * Rozmowy o Jakości z Kamą Gawrońską - [szkolatestow.online](https://szkolatestow.online/)
+* The importance of test design techniques with Isabel Evans and Sue Atkins - [Quare MeetCast](https://www.meetup.com/pl-PL/Quare-MeetCast/events/272951901/)
 
 ## My test case examples
 
