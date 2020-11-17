@@ -58,6 +58,7 @@ On this site I would like to share my all gained experience from personal studie
 
 * Rozmowy o Jakości z Kamą Gawrońską - [szkolatestow.online](https://szkolatestow.online/)
 * The importance of test design techniques with Isabel Evans and Sue Atkins - [Quare MeetCast](https://www.meetup.com/pl-PL/Quare-MeetCast/events/272951901/)
+* Jak wyróżnić się na rozmowie kwalifikacyjnej i zdobyć pracę – poradnik dla testerów - [Sii Polska](https://siipolska.clickmeeting.com/474387632/ended)
 
 ## My test case examples
 
