@@ -24,7 +24,7 @@ On this site I would like to share my all gained experience from personal studie
 * Reporting bugs
 * SQL
 * REST API
-* HTML, CSS (in progress)
+* HTML, CSS
 * Agile, SCRUM methodology
 
 ## Certificates
@@ -40,6 +40,7 @@ On this site I would like to share my all gained experience from personal studie
 * [MySQL tworzenie i zarządzanie bazami danych](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/) - Udemy
 * [Wprowadzenie do Git i GitHub](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/) - Udemy
 * [Agile i Scrum od podstaw - Profesjonalne wprowadzenie do metod zwinnych](https://www.udemy.com/course/agile-i-scrum-od-podstaw/) - Udemy
+* [Web developer od podstaw w 15 dni](https://www.udemy.com/course/kurs-web-developer-od-podstaw-w-15-dni/) - Udemy
 
 
 ## Books
