@@ -47,6 +47,7 @@ On this site I would like to share my all gained experience from personal studie
 
 * [Zawód tester Od decyzji do pierwszych kroków w pracy](https://ksiegarnia.pwn.pl/Zawod-tester,138870798,p.html)
 * [Tester oprogramowania Przygotowanie do egzaminu z testowania oprogramowania](https://ksiegarnia.pwn.pl/Tester-oprogramowania-Przygotowanie-do-egzaminu-z-testowania-oprogramowania,84913544,p.html)
+* [Podróż przez świat testowania](https://www.funwithbugs.com/store/)
 
 ## Recommended blogs
 
