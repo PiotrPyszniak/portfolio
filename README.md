@@ -56,6 +56,11 @@ On this site I would like to share my all gained experience from personal studie
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [toniebug.pl](https://www.toniebug.pl)
 
+## Groups on Facebook
+
+* [Testowanie Oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+
 ## Webinars
 
 * Rozmowy o Jakości z Kamą Gawrońską - [szkolatestow.online](https://szkolatestow.online/)
