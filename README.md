@@ -49,6 +49,7 @@ On this site I would like to share my all gained experience from personal studie
 * [Tester oprogramowania Przygotowanie do egzaminu z testowania oprogramowania](https://ksiegarnia.pwn.pl/Tester-oprogramowania-Przygotowanie-do-egzaminu-z-testowania-oprogramowania,84913544,p.html)
 * [Podróż przez świat testowania](https://www.funwithbugs.com/store/)
 * [Pasja testowania](https://helion.pl/ksiazki/pasja-testowania-wydanie-ii-rozszerzone-krzysztof-jadczyk,paste2.htm#format/d)
+* [HTML i CSS Zaprojektuj i zbuduj witrynę WWW. Podręcznik Front-End Developera](https://helion.pl/ksiazki/html-i-css-zaprojektuj-i-zbuduj-witryne-www-podrecznik-front-end-developera-jon-duckett,htcswv.htm#format/d)
 
 ## Recommended blogs
 
