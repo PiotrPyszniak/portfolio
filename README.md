@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Piotr Pyszniak. I am a commodity engineer. I graduated from the University of Life Sciences in Lublin, Poland. I have started to be interested in software testing. My goal is to develop testing knowlage and technical skills.  
+My name is Piotr Pyszniak. I am Software tester at the beginning of professional career in this field. I have 6 months of experience in software testing. Focused on finding irregularities to improve quality of products for customers. I have completed vocational training and obtained the ISTQB Foundation Level certificate. Highly motivated for reaching advanced knowledge and constant development in the area of software testing.  
 On this site I would like to share my all gained experience from personal studies and researches.
 
 ## Tools
