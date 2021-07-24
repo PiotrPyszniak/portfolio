@@ -7,15 +7,16 @@ On this site I would like to share my all gained experience from personal studie
 
 ## Tools
 
+* Jira
+* Confluence
+* Git / GitLab / GitHub
+* MS SQL
+* MySQL
+* Windows / MacOS
+* Postman
 * Testlink
 * Redmine
 * Trello
-* MS SQL
-* Windows
-* Postman
-* MySQL
-* Git / GitHub
-* Jira (in progress)
 
 ## Tech skills
 
@@ -50,6 +51,8 @@ On this site I would like to share my all gained experience from personal studie
 * [Podróż przez świat testowania](https://www.funwithbugs.com/store/)
 * [Pasja testowania](https://helion.pl/ksiazki/pasja-testowania-wydanie-ii-rozszerzone-krzysztof-jadczyk,paste2.htm#format/d)
 * [HTML i CSS Zaprojektuj i zbuduj witrynę WWW. Podręcznik Front-End Developera](https://helion.pl/ksiazki/html-i-css-zaprojektuj-i-zbuduj-witryne-www-podrecznik-front-end-developera-jon-duckett,htcswv.htm#format/d)
+* [Git. Rozproszony system kontroli wersji](https://helion.pl/ksiazki/git-rozproszony-system-kontroli-wersji-wlodzimierz-gajda,gitroz.htm#format/e) (in progress)
+* [SQL w mgnieniu oka](https://helion.pl/ksiazki/sql-w-mgnieniu-oka-opanuj-jezyk-zapytan-w-10-minut-dziennie-wydanie-v-ben-forta,sqlok5.htm#format/d) (in progress)
 
 ## Recommended blogs
 
