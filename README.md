@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Piotr Pyszniak. I am Software tester at the beginning of professional career in this field. I have 6 months of experience in software testing. Focused on finding irregularities to improve quality of products for customers. I have completed vocational training and obtained the ISTQB Foundation Level certificate. Highly motivated for reaching advanced knowledge and constant development in the area of software testing.  
+My name is Piotr Pyszniak. I’m certified tester (ISTQB Foundation Level certificate) with six months’ professional experience. I’m focused on finding irregularities to improve quality of products for customers and highly motivated for reaching advanced knowledge and constant development in the area of software testing.
 On this site I would like to share my all gained experience from personal studies and researches.
 
 ## Tools
