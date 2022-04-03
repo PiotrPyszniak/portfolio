@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Piotr Pyszniak. I’m certified tester (ISTQB Foundation Level certificate) with six months’ professional experience. I’m focused on finding irregularities to improve quality of products for customers and highly motivated for reaching advanced knowledge and constant development in the area of software testing.
+My name is Piotr Pyszniak. I’m certified tester (ISTQB Foundation Level certificate) with one year professional experience. I’m focused on finding irregularities to improve quality of products for customers and highly motivated for reaching advanced knowledge and constant development in the area of software testing.
 
 On this site I would like to share my all gained experience from personal studies and researches.
 
@@ -10,6 +10,7 @@ On this site I would like to share my all gained experience from personal studie
 
 * Jira
 * Confluence
+* HP ALM
 * Git / GitLab / GitHub
 * MS SQL
 * MySQL
@@ -22,6 +23,7 @@ On this site I would like to share my all gained experience from personal studie
 ## Tech skills
 
 * Software testing
+* Mobile testing
 * Creating test cases
 * Reporting bugs
 * SQL
